@@ -1,1 +1,13 @@
-Name,Type,LP,AP,DF
+0Bendicion del Gobernante, Nigromante,4,4,4
+1Parche del Bosque, 
+2Poseidon,
+3Aquarium,
+4kurokawa
+5ElPerdido
+6Protector de la Fuente,
+7El Pequeño,
+8Pescador Jhon,
+9Granjero Donald,
+10Guia del Dorado,
+
+
