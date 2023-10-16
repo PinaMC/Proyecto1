@@ -1,13 +1,14 @@
-0Bendicion del Gobernante, Nigromante,4,4,4
-1Parche del Bosque, 
-2Poseidon,
-3Aquarium,
-4kurokawa
-5ElPerdido
-6Protector de la Fuente,
-7El Pequeño,
-8Pescador Jhon,
-9Granjero Donald,
-10Guia del Dorado,
-
-
+0Bendicion del Gobernante,Nigromante,9,10,7
+1Parche del Bosque,Mago,6,8,6
+2Poseidon,Vikingo,8,8,6
+3Aquarium,Bestia,8,8,6
+4kurokawa,Bestia,8,8,6
+5ElPerdido,Vikingo,4,4,4
+6Protector de la Fuente,Mago,6,7,5
+16Rey Hada,Bestia,7,6,4
+19Amumu,Bestia,6,4,4
+20Demon King,Bestia,4,6,4
+21Espiritu de las Nieves,Bestia,4,4,4
+23Toraemon,Mago,4,6,4
+24Thorfinn,Vikingo,5,7,4
+25Moshimo,Bestia,5,5,5
