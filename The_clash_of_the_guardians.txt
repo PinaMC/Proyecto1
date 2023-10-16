@@ -12,3 +12,24 @@
 23Toraemon,Mago,4,6,4
 24Thorfinn,Vikingo,5,7,4
 25Moshimo,Bestia,5,5,5
+Bjorn the Brave,Vikingo,4,4,4
+Cerberus,Bestia,5,3,5
+Sorceress Morgana,Mago,5,3,2
+Mad Scientist Igor,Mago,3,4,4
+Ragnar the Fierce,Vikingo,5,5,5
+Hydra,Bestia,4,7,5
+Valeria the Enchantress,Mago,4,4,5
+Captain Hook,Nigromante,3,4,4
+Erik the Red,Vikingo,6,5,4
+Phoenix,Bestia,2,8,6
+The mysterious Magician,Mago,6,5,3
+Mistress of Shadows,Vikingo,5,6,4
+Midnight Mysteria,Mago,7,6,4
+Countess Vampira,Nigromante,5,3,4
+Rollo the Mighty,Vikingo,2,6,5
+Manticore,Bestia,4,3,2
+Mystic Magellan,Mago,7,5,5
+Lord Lich,Mago,5,7,5
+Sigrid the Swift,Vikingo,5,5,6
+Serpent King,Bestia,5,3,2
+

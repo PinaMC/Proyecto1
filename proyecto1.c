@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <windows.h>
-
+//Vicente Farias Piña
 //variables definidas para ahorrar tiempo y cambiar los valores minimos y maximo de validacion
 #define vidaMin 1
 #define vidaMax 9

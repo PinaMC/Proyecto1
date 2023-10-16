@@ -1,0 +1,15 @@
+Para ejecutar el codigo es necesario que tenga el compilador Dev c++ con la version 5.1.1
+Seleccionar el la opcion TDM-GCC 4.9.2 64-bit Release
+Si lo necesita descargue el portable de github desde esta pagina: https://sourceforge.net/projects/orwelldevcpp/files/Portable%20Releases/ 
+Debe descargar todo el github incluyendo todo lo presentado en este y ponerlo en una misma carpeta.
+El archivo de texto debe llamarse "The_clash_of_the_guardians" para que funcione el programa.
+En el archivo se debe cumplir el formato "nombre,tipo,vida,ataque,defensa"
+Dentro del codigo esta, esto para limitar los valores de las cartas. Puede cambiarlos si asi desea.
+#define vidaMin 1
+#define vidaMax 9
+#define atqMax 10
+#define atqMin 2
+#define defMax 8
+#define defMin 1
+
+
